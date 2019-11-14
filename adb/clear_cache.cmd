@@ -1,0 +1,1 @@
+adb -s 52031e21464c24cd shell pm clear com.gogii.textplus
